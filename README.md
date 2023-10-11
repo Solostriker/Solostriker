@@ -9,7 +9,9 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solostriker&show_icons=true&theme=dracula)](https://github.com/Solostriker)
 
-## 🔧 Technologies & Tools
+### 💻 My Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Solostriker&layout=compact&theme=dracula)](https://github.com/Solostriker)
 
 <!---
 Solostriker/Solostriker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
