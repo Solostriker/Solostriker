@@ -3,7 +3,8 @@
 - I know Python, Java, HTML, and CSS, while also having limited proficiency in  Javascript
 - 🌱 I’m currently learning all types of different programming languages 
 - 💞️ I’m looking to collaborate on open-source projects, neural networks, websites, and other coding projects
-- 📫 How to reach me through Github or contact me another method if you know my contact information
+- 📫 Reach me through Github or contact me another method if you know my contact information
+- All of my repositories are private but if anyone wants to see, I am willing to share them
 
 ## 🚀 GitHub Stats
 
